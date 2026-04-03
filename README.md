@@ -1,4 +1,4 @@
-# Designer Portfolio V2
+# Minimal Portfolio Layout
 
 A minimal designer portfolio layout built independently from scratch. Features a clean nav, hero section with large typography, and case study cards with hover interactions. Pure HTML & CSS.
 
